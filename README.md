@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isuru Sandaruwan</h1>
 <h3 align="center">Aspiring to be a talented Full Stack Developer</h3>
-<img align="right" alt="coding" width="400" height="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642672151683/36Kv4xxLV.gif">
+<img align="right" alt="coding" width="400" height="400" src="https://tbcdn.talentbrew.com/company/234/cms/illustrations/animation_laptop-excited.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuruaditya&label=Profile%20views&color=0e75b6&style=flat" alt="isuruaditya" /> </p>
 
