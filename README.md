@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isuru Sandaruwan</h1>
+<h1 align="center">Hi 👋, I'm Sandaruwan</h1>
 <h3 align="center">Aspiring to be a talented Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" height="308" src="https://tbcdn.talentbrew.com/company/234/cms/illustrations/animation_laptop-excited.gif">
 
