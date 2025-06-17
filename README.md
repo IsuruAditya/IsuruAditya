@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React.js,**
 
-- 📫 How to reach me **isuru1999adi.sandaru@gmail.com**
+- 📫 How to reach me **isuruadithyasandaruwan@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
